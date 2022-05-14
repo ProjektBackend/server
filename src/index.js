@@ -8,7 +8,7 @@ app.use(express.json());
 
 app.use("/get", userRoute);
 
-app.listen(3001,() =>{
+app.listen(3001,() =>{ 
 
     console.log("your server is running on port 3001!");
 } )

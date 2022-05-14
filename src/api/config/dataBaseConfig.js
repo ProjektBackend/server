@@ -5,6 +5,7 @@ const mysql = require("mysql");
     host: "localhost",
     password: "password",
     database: "projekt"
+    
 
 })
 
